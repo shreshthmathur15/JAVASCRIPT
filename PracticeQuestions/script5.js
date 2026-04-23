@@ -1,3 +1,4 @@
+//--------------------------------------------Practice Questions-----------------------------------------------------------------
 // 1. Create a const object named "product" to store information shown in the picture
 // const product = { 
 //     name : "ball pen",
@@ -38,9 +39,9 @@
 
 
 
-let grade = prompt("Enter your grade : ");
+// let grade = prompt("Enter your grade : ");
 
-if   (80 <= grade && grade >= 100) {console.log(grade , "is an A grade");}
-else if (70 <= grade && grade >= 79) {console.log(grade , "is a B grade");}
-else if (60 <= grade && grade >= 69) {console.log(grade , "is a C grade");}
-else if (50 <= grade && grade >= 59) {console.log(grade , "is a D grade");}
+// if   (80 <= grade && grade >= 100) {console.log(grade , "is an A grade");}
+// else if (70 <= grade && grade >= 79) {console.log(grade , "is a B grade");}
+// else if (60 <= grade && grade >= 69) {console.log(grade , "is a C grade");}
+// else if (50 <= grade && grade >= 59) {console.log(grade , "is a D grade");}
