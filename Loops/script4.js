@@ -12,7 +12,7 @@
 
 // print for 10000 times
 
-// for (count = 1; count <= 10000; count++ ) {
+// for (count = 1; count <= 10000; count++ )  {
 //     console.log("snorlax");
 // }
 

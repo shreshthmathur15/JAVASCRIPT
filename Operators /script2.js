@@ -4,5 +4,5 @@
 //     console.log("Number is divisble by 5")
 // }
 // else {
-//     console.log("Number is not divisble by 5")
+//     console.log("Number is not divisble by 5")  
 // }
