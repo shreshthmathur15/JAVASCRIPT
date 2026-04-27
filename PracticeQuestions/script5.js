@@ -1,4 +1,4 @@
-//-----------------------------------------Practice Questions--------------------------------------------------
+//---------------------------------------Practice Questions---------------------------------------------
 // 1. Create a const object named "product" to store information shown in the picture
 // const product = { 
 //     name : "ball pen",
